@@ -209,5 +209,7 @@ public class ClientHandler {
        newNick = nick;
          System.out.println(newNick);
          return newNick;
+
+
     }
 }
